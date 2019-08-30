@@ -14,4 +14,8 @@
   # Display of customers (color coded) and and associated newly defined DC locations (coordinates) on an interactive map interface.
   
 
-The "SC_Design_ML.ipynd" within the Data-Mining branch can be downloaded and run to showcase an example.
+# To Run:
+
+# Download the "SC_Design_ML.ipynd" within the Data-Mining branch.
+# Download the "customer_locations.csv" file to be imported for sample customer locations
+# For demonstration purposes ficticious demand and customer names have been created in the jupyter notebook
